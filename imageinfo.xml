@@ -1,0 +1,108 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="62856" filedate="2015-07-08 16:56:29" width="499px" height="720px">
+</image>
+<image path="images/initial-a.jpg" filesize="29002" filedate="2015-07-10 18:57:35" width="269px" height="271px">
+</image>
+<image path="images/initial-c.jpg" filesize="22768" filedate="2015-07-08 16:49:12" width="261px" height="260px">
+</image>
+<image path="images/initial-f.jpg" filesize="22928" filedate="2015-07-06 19:42:09" width="269px" height="266px">
+</image>
+<image path="images/initial-i.jpg" filesize="21912" filedate="2015-07-08 17:02:42" width="265px" height="265px">
+</image>
+<image path="images/initial-m.jpg" filesize="25120" filedate="2015-07-08 17:06:09" width="272px" height="266px">
+</image>
+<image path="images/initial-n.jpg" filesize="25820" filedate="2015-07-09 18:09:27" width="274px" height="266px">
+</image>
+<image path="images/initial-o.jpg" filesize="20835" filedate="2015-07-10 18:24:36" width="270px" height="264px">
+</image>
+<image path="images/initial-r.jpg" filesize="22232" filedate="2015-07-10 18:28:41" width="266px" height="242px">
+</image>
+<image path="images/initial-s.jpg" filesize="25587" filedate="2015-07-08 17:21:08" width="271px" height="268px">
+</image>
+<image path="images/initial-t.jpg" filesize="24590" filedate="2015-07-08 17:24:43" width="270px" height="274px">
+</image>
+<image path="images/initial-u.jpg" filesize="26501" filedate="2015-07-09 18:12:10" width="277px" height="275px">
+</image>
+<image path="images/initial-w.jpg" filesize="23243" filedate="2015-07-08 17:17:55" width="277px" height="268px">
+</image>
+<image path="images/p0005.jpg" filesize="111330" filedate="2015-07-06 17:39:31" width="533px" height="720px">
+</image>
+<image path="images/p0020.png" filesize="1354" filedate="2015-07-06 19:44:39" width="71px" height="92px">
+</image>
+<image path="images/p0022.jpg" filesize="132714" filedate="2015-07-09 18:20:16" width="638px" height="639px">
+</image>
+<image path="images/p0032.jpg" filesize="60756" filedate="2015-07-08 17:29:24" width="533px" height="409px">
+</image>
+<image path="images/p0040.jpg" filesize="112747" filedate="2015-07-10 18:43:04" width="720px" height="498px">
+</image>
+<image path="images/p0044.png" filesize="21672" filedate="2015-07-12 09:14:05" width="311px" height="366px">
+</image>
+<image path="images/p0054.jpg" filesize="24048" filedate="2015-07-09 18:25:27" width="271px" height="365px">
+</image>
+<image path="images/p0058.jpg" filesize="79844" filedate="2015-07-12 09:29:27" width="720px" height="469px">
+</image>
+<image path="images/p0066.jpg" filesize="15404" filedate="2015-07-08 17:09:47" width="142px" height="411px">
+</image>
+<image path="images/p0068.jpg" filesize="83792" filedate="2015-07-16 07:02:13" width="636px" height="565px">
+</image>
+<image path="images/p0076.jpg" filesize="140423" filedate="2015-07-16 07:06:27" width="546px" height="720px">
+</image>
+<image path="images/p0078.png" filesize="10065" filedate="2015-07-16 07:09:39" width="212px" height="293px">
+</image>
+<image path="images/p0088.jpg" filesize="73038" filedate="2015-07-16 07:12:56" width="465px" height="450px">
+</image>
+<image path="images/p0094.jpg" filesize="74761" filedate="2015-07-16 07:26:47" width="442px" height="720px">
+</image>
+<image path="images/p0110.png" filesize="24480" filedate="2015-07-16 07:29:45" width="480px" height="236px">
+</image>
+<image path="images/p0112.jpg" filesize="111175" filedate="2015-07-16 07:35:15" width="446px" height="720px">
+</image>
+<image path="images/p0121.png" filesize="45027" filedate="2015-07-16 07:38:48" width="509px" height="480px">
+</image>
+<image path="images/p0130.jpg" filesize="103003" filedate="2015-07-16 09:43:46" width="720px" height="509px">
+</image>
+<image path="images/p0139.png" filesize="17689" filedate="2015-07-16 09:46:16" width="320px" height="331px">
+</image>
+<image path="images/p0148.jpg" filesize="120087" filedate="2015-07-16 09:52:41" width="720px" height="470px">
+</image>
+<image path="images/p0152.jpg" filesize="50956" filedate="2015-07-10 18:46:01" width="385px" height="410px">
+</image>
+<image path="images/p0166.jpg" filesize="101496" filedate="2015-07-16 09:57:50" width="504px" height="720px">
+</image>
+<image path="images/p0184.jpg" filesize="112300" filedate="2015-07-16 10:01:46" width="476px" height="720px">
+</image>
+<image path="images/p0187.png" filesize="20089" filedate="2015-07-12 09:08:39" width="309px" height="306px">
+</image>
+<image path="images/p0195.png" filesize="14874" filedate="2015-07-12 16:17:07" width="220px" height="325px">
+</image>
+<image path="images/p0202.jpg" filesize="136186" filedate="2015-07-16 10:05:46" width="720px" height="500px">
+</image>
+<image path="images/p0205.jpg" filesize="28864" filedate="2015-07-12 09:34:28" width="428px" height="248px">
+</image>
+<image path="images/p0220.jpg" filesize="106655" filedate="2015-07-16 12:02:09" width="536px" height="720px">
+</image>
+<image path="images/p0237.jpg" filesize="30747" filedate="2015-07-09 18:23:00" width="285px" height="285px">
+</image>
+<image path="images/p0238.jpg" filesize="116765" filedate="2015-07-16 12:05:06" width="720px" height="490px">
+</image>
+<image path="images/p0246.png" filesize="13293" filedate="2015-07-12 09:11:00" width="228px" height="313px">
+</image>
+<image path="images/p0254.png" filesize="14808" filedate="2015-07-16 09:48:47" width="320px" height="301px">
+</image>
+<image path="images/p0256.jpg" filesize="159354" filedate="2015-07-16 12:08:35" width="720px" height="517px">
+</image>
+<image path="images/p0261.jpg" filesize="10685" filedate="2015-07-08 17:13:30" width="177px" height="190px">
+</image>
+<image path="images/p0274.jpg" filesize="115727" filedate="2015-07-16 12:13:12" width="720px" height="460px">
+</image>
+<image path="images/p0279.jpg" filesize="47353" filedate="2015-07-09 18:15:34" width="558px" height="288px">
+</image>
+<image path="images/titlepage.png" filesize="12053" filedate="2015-07-06 19:52:49" width="455px" height="720px">
+</image>
+</images>
